@@ -17,3 +17,15 @@ Para configurar el proyecto en tu máquina local, sigue estos pasos:
    ```bash
    git clone https://github.com/tuusuario/tu-repositorio.git
    cd tu-repositorio
+
+2. **Instala las dependencias del proyecto:**
+   ```bash
+   npm install
+
+3. **Inicia el servidor de desarrollo:**
+   ```bash
+   npm run dev
+
+4. **Accede a la aplicación en tu navegador:**
+    Abre http://localhost:<Puerto> para ver la aplicación en acción.
+
