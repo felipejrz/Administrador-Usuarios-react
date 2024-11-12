@@ -46,6 +46,5 @@ Si deseas contribuir a este proyecto, por favor haz un fork del repositorio y en
 
 ## Autor ✨
 
-- **Felipe Jerez** - [felipejrz](https://github.com/felipejrz)
-
+- **Felipe Juárez** - [felipejrz](https://github.com/felipejrz)
 
